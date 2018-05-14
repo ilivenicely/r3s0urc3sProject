@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ApplicationUI</string>
+
+    <string name="name">
+     Robert McCormick
+
+    </string>
+    <string name="birthday">
+    July 24th, 1984
+    </string>
+
+    <string name="hometown">
+     Hometown
+    </string>
+
+    <string name="hobbies">
+        Backpacking
+    </string>
+
+    <string name="bio">
+        biography data here
+    </string>
+
+</resources>
